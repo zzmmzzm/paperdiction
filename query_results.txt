@@ -1,0 +1,3 @@
+query: n an instance of questioning
+v pose a question - Queried 1 times
+logical: a. capable of or reflecting the capability for correct and valid reasoning - Queried 1 times
